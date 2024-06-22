@@ -69,5 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-![Screenshot (2974)](https://github.com/ItsMeShashu/React-Weather-API-app/assets/111221384/d265045c-3bd3-4d31-b205-8a4501db8717)
-
+![Screenshot (2979)](https://github.com/ItsMeShashu/React-Weather-API-app/assets/111221384/a91aa472-339f-4b4e-8086-e6b3a769cc6a)
